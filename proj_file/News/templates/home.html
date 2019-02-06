@@ -1,0 +1,13 @@
+{% extends "wraper.html" %}
+
+{% block content %}
+    <div>
+        <h1 align="center", style="background-color:#50fd98">Home page News</h1>
+        {% for post in object_list %}
+            <h2 align="center", style="background-color:#507efd">{{post.theme}}</h3>
+            <h4 style="font-family: Arial, Verdana, sans-serif; font-size: 80%">{{post.text}}</h2>
+            <h4 style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 120%">{{post.date}}</h3>
+        {% endfor %}
+    </div>
+
+{% endblock %}
