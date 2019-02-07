@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c15edb5c-d9ee-41a8-8dc6-261728b0d29f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/production_static/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/News/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News/templates/wraper.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Site/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Site/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_app/static/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_app/templates/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_app/templates/tetest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django.wsgi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production_static/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production_static/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/prodaction_static/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="272" />
     <option name="y" value="-25" />
     <option name="width" value="1440" />
@@ -92,6 +87,11 @@
             <path>
               <item name="proj_file" type="b2602c69:ProjectViewProjectNode" />
               <item name="proj_file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proj_file" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proj_file" type="462c0819:PsiDirectoryNode" />
+              <item name="prodaction_static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,19 +150,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549520044021</updated>
-      <workItem from="1549520059104" duration="6484000" />
+      <workItem from="1549520059104" duration="7771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6484000" />
+    <option name="totallyTimeSpent" value="7771000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18322147" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18322147" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -205,6 +205,9 @@
           <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/production_static/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Site/settings.py">
       <provider selected="true" editor-type-id="text-editor">
