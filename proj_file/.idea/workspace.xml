@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c15edb5c-d9ee-41a8-8dc6-261728b0d29f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django.wsgi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production_static/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production_static/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/prodaction_static/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Site/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/templates/page.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -32,8 +29,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Site/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1161">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            <state relative-caret-position="556">
+              <caret line="126" column="32" selection-start-line="126" selection-start-column="32" selection-end-line="126" selection-end-column="32" />
+              <folding>
+                <element signature="e#304#324#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,8 +63,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/templates/page.html" />
-        <option value="$PROJECT_DIR$/Site/settings.py" />
         <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/Site/settings.py" />
       </list>
     </option>
   </component>
@@ -91,7 +91,7 @@
             <path>
               <item name="proj_file" type="b2602c69:ProjectViewProjectNode" />
               <item name="proj_file" type="462c0819:PsiDirectoryNode" />
-              <item name="prodaction_static" type="462c0819:PsiDirectoryNode" />
+              <item name="Site" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,12 +150,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549520044021</updated>
-      <workItem from="1549520059104" duration="7771000" />
+      <workItem from="1549520059104" duration="8686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7771000" />
+    <option name="totallyTimeSpent" value="8686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -195,7 +195,7 @@
     <entry file="file://$PROJECT_DIR$/templates/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -211,8 +211,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Site/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1161">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        <state relative-caret-position="556">
+          <caret line="126" column="32" selection-start-line="126" selection-start-column="32" selection-end-line="126" selection-end-column="32" />
+          <folding>
+            <element signature="e#304#324#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
