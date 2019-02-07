@@ -1,0 +1,4 @@
+AddDefaultCharset utf-8
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !^\/static\/
+RewriteRule ^(.*)$ /webapp/$1 [L,QSA]
